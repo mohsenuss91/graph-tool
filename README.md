@@ -1,5 +1,5 @@
-graph-tool -- an efficient python module for analysis of graphs
-===============================================================
+graph-tool 
+==========
 
 graph-tool is an efficient python module for manipulation and
 statistical analysis of graphs. It contains several general graph

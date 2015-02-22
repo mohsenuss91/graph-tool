@@ -7,8 +7,7 @@ measurements data structures and algorithms, such as degree or
 properties distributions, degree or properties correlations,
 clustering, graph filtering, graph layout, and more, as well as a
 random graph generation routine. For more information and
-documentation, please take a look at the website
-http://graph-tool.skewed.de.
+documentation, please take a look at the [website](http://graph-tool.skewed.de).
 
 graph-tool is free software, you can redistribute it and/or modify it
 under the terms of the GNU General Public License, version 3 or
@@ -18,14 +17,14 @@ This program is distributed in the hope that it will be useful, but
 WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-Availability
-============
+###Availability
+
 
 The current stable version of graph-tool is always available from the
-project's website: http://graph-tool.skewed.de
+project's [website](http://graph-tool.skewed.de).
 
-Installation
-============
+###Installation
+
 
 graph-tool follows the standard GNU installation procedure.  Please
 consult the INSTALL file in this distribution for more detailed
@@ -37,21 +36,20 @@ techniques in the program, relatively large amounts of RAM are
 required during compilation. You have been warned! For this reason,
 pre-compiled packages are available in the website.
 
-More information about graph-tool
-==================================
+### More information
 
-The project homepage is http://graph-tool.skewed.de. It contains
+
+[The project homepage](http://graph-tool.skewed.de) contains
 documentation, info on mailing lists, a wiki, as well as a
 bug-tracking function. You should be reading it, instead of this. :-)
 
 See the NEWS file for recent changes to the program.
 
-Reporting Bugs
-==============
+### Reporting Bugs
 
-A list of known bugs can be found in the website:
 
-http://graph-tool.skewed.de/tickets
+A list of known bugs can be found this [website](http://graph-tool.skewed.de/tickets)
+
 
 If you found a bug in the program which is not included in this list,
 please submit a ticket through the provided interface.
